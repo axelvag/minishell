@@ -81,7 +81,7 @@ Only the following functions are allowed to be used in this project:<br>
 $ git clone https://github.com/axelvag/minishell.git
 
 # Access
-$ cd Minishell42
+$ cd minishell
 
 # Install the readline lib
 $ sudo apt-get install libreadline6-dev
