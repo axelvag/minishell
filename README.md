@@ -76,7 +76,7 @@ Only the following functions are allowed to be used in this project:<br>
 
 ```bash
 # Clone this project
-$ git clone https://github.com/anolivei/Minishell42
+$ git clone https://github.com/axelvag/minishell.git
 
 # Access
 $ cd Minishell42
@@ -91,9 +91,5 @@ $ make
 $ ./minishell
 
 ```
-<p align="center">
-<img width="500px" src="./bighell.png?raw=true" />
-</p>
-&#xa0;
 
 <a href="#top">Back to top</a>
