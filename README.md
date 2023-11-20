@@ -1,17 +1,6 @@
 # minishell
 
 <p align="center">
-
- <img alt="Github top language" src="https://img.shields.io/github/languages/top/anolivei/Minishell42?color=3de069">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/anolivei/Minishell42?color=3de069">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/anolivei/Minishell42?color=3de069">
-
-  <img alt="Norminette" src="https://github.com/anolivei/Minishell42/actions/workflows/norminette.yml/badge.svg?event=push">
-</p>
-
-<p align="center">
   <a href="#about">About</a> &#xa0; | &#xa0;
   <a href="#links">Links</a> &#xa0; | &#xa0;
   <a href="#functions">Functions</a> &#xa0; | &#xa0;
@@ -20,8 +9,6 @@
 
 
 ## About ##
-
-- Minishell is a project at school 42 and the instructions were given in the [subject](https://github.com/anolivei/Minishell42/blob/main/subject.pdf).
 
 - The objective of this project is to create a simple shell to learn a lot about processes and file descriptors.
 
