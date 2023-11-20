@@ -10,7 +10,9 @@
 
 ## About ##
 
-- The objective of this project is to create a simple shell to learn a lot about processes and file descriptors.
+**Minishell is a 42 project that aims to recode a (mini) shell. It is able to launch commands, manage errors, return values, manage pipes, parsing errors...**
+
+- The first objective/direction for create this project is to copy many functionnality of BASH. Then read a lot of documentation to learn a lot about processes or file descriptors.
 
 - The existence of shells is linked to the very existence of IT. At the time, all coders agreed that communicating with a computer using aligned 1/0 switches was seriously irritating. It was only logical that they came up with the idea to communicate with
 a computer using interactive lines of commands in a language somewhat close to english.
